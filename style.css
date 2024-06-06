@@ -50,17 +50,11 @@ section {
     margin-bottom: 10px;
 }
 
-.column {
-    float: left;
-    width: 33.33%;
+.skills {
+    background: #f4f4f4;
+    padding: 10px;
     margin-bottom: 10px;
-    box-sizing: border-box;
- }
- .row::after {
-    content: "";
-    clear: both;
-    display: table;
- }
+}
 
 footer {
     text-align: center;
